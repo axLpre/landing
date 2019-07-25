@@ -17,6 +17,7 @@
 
 .cards {
   display: flex;
-  justify-content: space-evenly;
-  margin-bottom: 30px;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: 0 auto 30px auto;
 }
