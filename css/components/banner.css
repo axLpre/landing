@@ -1,9 +1,10 @@
 .banner {
   display: block;
-  background-image: url("/landing/images/background-sw.png");
+  background-image: url("../../images/background-sw.png");
   background-size: cover;
   background-position: center;
   padding: 200px 0;
+  margin-bottom: 20px;
 }
 
 .banner h1 {
